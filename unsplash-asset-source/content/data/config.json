@@ -1,8 +1,0 @@
-{
-    "type": "SiteConfig",
-    "title": "Netlify Create",
-    "footer": {
-        "type": "FooterConfig",
-        "body": "Made by [Netlify Create](https://www.netlify.com/platform/create/)."
-    }
-}

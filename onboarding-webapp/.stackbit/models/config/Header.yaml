@@ -1,9 +1,0 @@
-name: Header
-label: Header
-labelField: title
-fields:
-  - type: string
-    name: title
-    label: Title
-    default: Your Brand
-    required: true
